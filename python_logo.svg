@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="python_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="276.16377"
+     inkscape:cy="548.45799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     objecttolerance="1"
+     gridtolerance="1"
+     guidetolerance="1"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4852"
+       transform="translate(161.93555,-37.320526)">
+      <circle
+         transform="scale(-1)"
+         r="13.229166"
+         cy="-185.82053"
+         cx="56.935555"
+         id="path4845"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <g
+         transform="rotate(180,0.79466541,178.06971)"
+         id="g4841">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 220,602.58008 a 39.940159,39.940159 0 0 0 -20,5.42383 v 12.01562 h 20 v 2.5 H 200 185.4043 A 39.940159,39.940159 0 0 0 180,640.3125 v 5.37109 a 39.940159,39.940159 0 0 0 5.20508,16.83594 H 200 v -10 a 9.9999988,9.9999988 0 0 1 10,-10 h 20 a 9.9999988,9.9999988 0 0 0 10,-10 v -10 -14.5293 a 39.940159,39.940159 0 0 0 -20,-5.41015 z m -11.625,5.80859 a 3.7066708,3.7066708 0 0 1 3.70703,3.70703 3.7066708,3.7066708 0 0 1 -3.70703,3.70703 3.7066708,3.7066708 0 0 1 -3.70508,-3.70703 3.7066708,3.7066708 0 0 1 3.70508,-3.70703 z"
+           transform="scale(0.26458333)"
+           id="rect4487" />
+        <ellipse
+           ry="1.0337937"
+           rx="0.9704895"
+           cy="178.54424"
+           cx="61.9286"
+           id="path4843"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99157459;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 58.841442,181.20515 a 10.5675,10.5675 0 0 0 5.291666,-1.43505 v -3.17914 h -5.291666 v -0.66145 h 5.291666 3.861779 a 10.5675,10.5675 0 0 0 1.429888,-4.70773 v -1.4211 a 10.5675,10.5675 0 0 0 -1.377178,-4.45451 h -3.914489 v 2.64584 a 2.645833,2.645833 0 0 1 -2.645833,2.64583 h -5.291667 a 2.645833,2.645833 0 0 0 -2.645833,2.64583 v 2.64584 3.84421 a 10.5675,10.5675 0 0 0 5.291667,1.43143 z m 3.075781,-1.53685 a 0.98072332,0.98072332 0 0 1 -0.980819,-0.98082 0.98072332,0.98072332 0 0 1 0.980819,-0.98082 0.98072332,0.98072332 0 0 1 0.980302,0.98082 0.98072332,0.98072332 0 0 1 -0.980302,0.98082 z"
+           id="rect4487-5" />
+      </g>
+    </g>
+  </g>
+</svg>
