@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="python_logo.svg">
+   sodipodi:docname="python_zen_logo.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="276.16377"
+     inkscape:cx="485.47756"
      inkscape:cy="548.45799"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -58,7 +58,10 @@
      id="layer1">
     <g
        id="g4852"
-       transform="translate(161.93555,-37.320526)">
+       transform="matrix(1.5800876,0,0,1.5800876,194.96316,-145.11271)"
+       inkscape:export-filename="E:\_Projects\git\zen_python_logo\img\python_zen_logo.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          transform="scale(-1)"
          r="13.229166"
